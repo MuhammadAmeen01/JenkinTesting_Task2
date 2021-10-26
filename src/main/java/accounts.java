@@ -14,7 +14,8 @@ class accounts extends customer
 	int count;
 	int free_count=0;
     DateTimeFormatter datf;
-    LocalDateTime currentTime;
+    LocalDateTime currentTime;;;;
+    int i=0;
 	customer c=new customer();
 	//private int saving_account_no;
 	accounts()
